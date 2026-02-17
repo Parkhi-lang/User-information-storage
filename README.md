@@ -20,4 +20,3 @@ Flask
 
 Postman / cURL (for testing)
 
-📂 Project Structure
